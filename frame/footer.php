@@ -15,7 +15,7 @@
                 <div class="col-md-4">
                     <h5 class="text-light">Email and Phone</h5>
                     <p class="text-white paragraph-lg font-secondary">
-                        <a class="text-white" target="_blank" href="mailto:ctrls.hangocmy@gmail.com">hangocmy00@gmail.com</a>
+                        <a class="text-white" target="_blank" href="mailto:hangocmy00@gmail.com">hangocmy00@gmail.com</a>
                         <br>
                         <a class="text-white" target="_blank" href="tel:+84888745255">+84 888 745 255</a> 
                     </p>
