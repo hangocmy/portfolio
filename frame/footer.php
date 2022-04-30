@@ -5,7 +5,7 @@
                 <div class="col-md-4">
                     <h5 class="text-light">Socials</h5>
                     <p class="text-white paragraph-lg font-secondary">
-                        <a class="text-white" target="_blank" href="https://www.facebook.com/ctrls.hangocmy"><i class="ti-facebook" style="font-size: 1.8rem; margin-right: 4px; border: 1px solid rgba(233, 232, 232, 0.7);border-radius: 3.8px;"></i></a>
+                        <a class="text-white" target="_blank" href="https://www.facebook.com/ymcognah/"><i class="ti-facebook" style="font-size: 1.8rem; margin-right: 4px; border: 1px solid rgba(233, 232, 232, 0.7);border-radius: 3.8px;"></i></a>
                         <a class="text-white" target="_blank" href="https://www.linkedin.com/in/hangocmy"><i class="ti-linkedin" style="font-size: 1.8rem; margin-right: 4px; border: 1px solid rgba(233, 232, 232, 0.7); border-radius: 3.8px;"></i></a>
                         <br>
                         <a class="text-white" target="_blank" href="https://www.instagram.com/ymcognah"><i class="ti-instagram" style="font-size: 1.8rem; margin-right: 4px;  border: 1px solid rgba(233, 232, 232, 0.7); border-radius: 3.8px;"></i></a>
