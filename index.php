@@ -67,19 +67,16 @@
           - Never stop creating new ideas -
         </blockquote>
         <p>I'm a Bachelor of Software Engineering.
-          I’m currently learning everything about Web Design, Web Frontend, Software testing, etc.
-          In the future, I will learn more technologies.
+          I’m currently learning everything about Web Design, Web Frontend, Software Testing: Manual Testing, Automation Testing, etc.
           As a result of my love towards web application, I began setting up this website.
+          In the future, I will learn more technologies.
         </p>
         <p>
           During my projects, I worked as a Team leader as well as a Team player, and by doing so,
           I ensured the proper completion of work by team members.
-          My interests lie in orating.
-          My strengths are my positive attitude, punctuality, and interpersonal skills.
-          My weakness is my emotional nature. 
         </p>
         <p>
-          My goal is to build a successful career as a web designer, front-end web developer and Tester.
+          My goal is to build a successful career as a Automation Tester.
           This is all about me.
         </p>
         
@@ -88,7 +85,7 @@
       </div>
       <div class="col-md-4 text-center drag-lg-top">
         <div class="shadow-down mb-4">
-          <img src="images/about/author.jpg" alt="author" class="img-fluid w-100 rounded-lg border-thick border-white">
+          <img src="images/about/hangocmy.jpg" alt="author" class="img-fluid w-100 rounded-lg border-thick border-white">
         </div>
         <img src="images/about/signature.png" alt="signature" class="img-fluid">
         <h4>Ha Ngoc My</h4>
@@ -145,30 +142,30 @@
         <div class="col-lg-2 col-sm-6 mb-4 mb-lg-0">
           <div class="card shadow text-center">
             <div class="position-relative rounded-top progress-wrapper" data-color="#fdb157">
-              <div class="wave" data-progress="70%"></div>
+              <div class="wave" data-progress="80%"></div>
             </div>
             <div class="card-footer bg-white">
-              <h5 class="card-title">Software Testing<br>(70%)</h5>
+              <h5 class="card-title">Automation Testing</h5>
             </div>
           </div>
         </div>
         <div class="col-lg-2 col-sm-6 mb-4 mb-lg-0">
           <div class="card shadow text-center">
             <div class="position-relative rounded-top progress-wrapper" data-color="#9473e6">
-              <div class="wave" data-progress="75%"></div>
+              <div class="wave" data-progress="100%"></div>
             </div>
             <div class="card-footer bg-white">
-              <h5 class="card-title">Web Front-end<br>(75%)</h5>
+              <h5 class="card-title">Manual Testing</h5>
             </div>
           </div>
         </div>
         <div class="col-lg-2 col-sm-6 mb-4 mb-lg-0">
           <div class="card shadow text-center">
             <div class="position-relative rounded-top progress-wrapper" data-color="#bdecf6">
-              <div class="wave" data-progress="95%"></div>
+              <div class="wave" data-progress="75%"></div>
             </div>
             <div class="card-footer bg-white">
-              <h5 class="card-title">Presentation<br>(95%)</h5>
+              <h5 class="card-title">Web Front-end</h5>
             </div>
           </div>
         </div>
@@ -178,17 +175,17 @@
               <div class="wave" data-progress="85%"></div>
             </div>
             <div class="card-footer bg-white">
-              <h5 class="card-title">Teamwork<br>(85%)</h5>
+              <h5 class="card-title">Presentation & Teamwork</h5>
             </div>
           </div>
         </div>
         <div class="col-lg-2 col-sm-6 mb-4 mb-lg-0">
           <div class="card shadow text-center">
             <div class="position-relative rounded-top progress-wrapper" data-color="#7CD4BB">
-              <div class="wave" data-progress="80%"></div>
+              <div class="wave" data-progress="95%"></div>
             </div>
             <div class="card-footer bg-white">
-              <h5 class="card-title">Office Information<br>(80%)</h5>
+              <h5 class="card-title">Office Information</h5>
             </div>
           </div>
         </div>
@@ -198,7 +195,7 @@
               <div class="wave" data-progress="65%"></div>
             </div>
             <div class="card-footer bg-white">
-              <h5 class="card-title">English<br>(65%)</h5>
+              <h5 class="card-title">Video/Photo Editing</h5>
             </div>
           </div>
         </div>
@@ -216,15 +213,39 @@
         <div class="col-lg-12 text-center">
           <h2 class="section-title">Education Achievement</h2>
         </div>
+        <!--<div class="col-lg-6 col-md-6 mb-80">
+          <div class="d-flex">
+            <div class="mr-lg-5 mr-3">
+              <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
+            </div>
+            <div>
+              <p class="text-dark mb-1">
+                2018 - 2021
+              </p>
+              <h4>
+                Software Engineering Major
+              </h4>
+              <p class="mb-0 text-light">
+                Faculty of Information Technology
+              </p>
+            </div>
+          </div>
+        </div>-->
         <div class="col-lg-6 col-md-6 mb-80">
           <div class="d-flex">
             <div class="mr-lg-5 mr-3">
               <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
             </div>
             <div>
-              <p class="text-dark mb-1">2018 - 2021</p>
-              <h4>Software Engineering Major</h4>
-              <p class="mb-0 text-light">Faculty of Information Technology</p>
+              <p class="text-dark mb-1">
+                2020
+              </p>
+              <h4>
+                Human Resources Staff - TMOT Team
+              </h4>
+              <p class="mb-0 text-light">
+                I was assessed as a member who successfully completed the assignment for 4 consecutive semesters.
+              </p>
             </div>
           </div>
         </div>
@@ -234,9 +255,15 @@
               <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
             </div>
             <div>
-              <p class="text-dark mb-1">2020</p>
-              <h4>HR Staff - TMOT Team</h4>
-              <p class="mb-0 text-light">Apply for club/team/group activities - TDTU</p>
+              <p class="text-dark mb-1">
+                July - 2021
+              </p>
+              <h4>
+                The second prize
+              </h4>
+              <p class="mb-0 text-light">
+                TDTU Unbind The Brains Contest
+              </p>
             </div>
           </div>
         </div>
@@ -246,9 +273,15 @@
               <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
             </div>
             <div>
-              <p class="text-dark mb-1">July - 2021</p>
-              <h4>The second prize</h4>
-              <p class="mb-0 text-light">TDTU Unbind The Brains Contest</p>
+              <p class="text-dark mb-1">
+                December - 2021
+              </p>
+              <h4>
+                Scholarship
+              </h4>
+              <p class="mb-0 text-light">
+                Study Well - Practice Excellently for the 2020-2021 school year
+              </p>
             </div>
           </div>
         </div>
@@ -258,9 +291,15 @@
               <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
             </div>
             <div>
-              <p class="text-dark mb-1">December - 2021</p>
-              <h4>Scholarship</h4>
-              <p class="mb-0 text-light">Ton Duc Thang University</p>
+              <p class="text-dark mb-1">
+                December - 2021
+              </p>
+              <h4>
+                Top 10
+              </h4>
+              <p class="mb-0 text-light">
+                CV Web Competition
+              </p>
             </div>
           </div>
         </div>
@@ -270,45 +309,53 @@
               <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
             </div>
             <div>
-              <p class="text-dark mb-1">December - 2021</p>
-              <h4>Top 10</h4>
-              <p class="mb-0 text-light">CV Web Competition</p>
+              <p class="text-dark mb-1">
+                December - 2021
+              </p>
+              <h4>
+                QC Engineer (Manual & Automation Tester)
+              </h4>
+              <p class="mb-0 text-light">
+                PetroVietnam Gas Joint Stock Corporation
+                <br>
+                Product: Nail Salons & Spa 
+              </p>
             </div>
           </div>
         </div>
+        <!--<div class="col-lg-6 col-md-6 mb-80">
+          <div class="d-flex">
+            <div class="mr-lg-5 mr-3">
+              <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
+            </div>
+            <div>
+              <p class="text-dark mb-1">
+                February - 2022
+              </p>
+              <h4>
+                QC Engineer
+              </h4>
+              <p class="mb-0 text-light">
+                Manual & Automation Tester
+              </p>
+            </div>
+          </div>
+        </div>-->
         <div class="col-lg-6 col-md-6 mb-80">
           <div class="d-flex">
             <div class="mr-lg-5 mr-3">
               <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
             </div>
             <div>
-              <p class="text-dark mb-1">December - 2021</p>
-              <h4>Tester</h4>
-              <p class="mb-0 text-light">Tester Intern</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6 col-md-6 mb-80">
-          <div class="d-flex">
-            <div class="mr-lg-5 mr-3">
-              <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
-            </div>
-            <div>
-              <p class="text-dark mb-1">February - 2022</p>
-              <h4>QC Engineer</h4>
-              <p class="mb-0 text-light">Quality Control Engineer</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6 col-md-6 mb-80">
-          <div class="d-flex">
-            <div class="mr-lg-5 mr-3">
-              <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
-            </div>
-            <div>
-              <p class="text-dark mb-1">March - 2022</p>
-              <h4>Student of 5 merits</h4>
-              <p class="mb-0 text-light">Ton Duc Thang University</p>
+              <p class="text-dark mb-1">
+                March - 2022
+              </p>
+              <h4>
+                Student of 5 merits
+              </h4>
+              <p class="mb-0 text-light">
+                Good Moral, Good Studying, Good Physical Training, Good Volunteer, Good Integration
+              </p>
             </div>
           </div>
         </div>
@@ -330,19 +377,19 @@
           <img src="images/experience/icon-1.png" alt="icon">
           <p class="mb-0">Aug 2018 - July 2019</p>
           <h4>Basic IT Knowledge</h4>
-          <h6 class="text-light">TDTU</h6>
+          <h6 class="text-light"></h6>
         </div>
         <div class="col-lg-3 col-md-4 text-center">
           <img src="images/experience/icon-2.png" alt="icon">
           <p class="mb-0">Mar 2019 - Aug 2021</p>
           <h4>UI & UX Design and<br>Web Application</h4>
-          <h6 class="text-light">TDTU</h6>
+          <h6 class="text-light"></h6>
         </div>
         <div class="col-lg-3 col-md-4 text-center">
           <img src="images/experience/icon-3.png" alt="icon">
           <p class="mb-0">Sep 2020 - Present</p>
-          <h4>Software Testing</h4>
-          <h6 class="text-light">TDTU</h6>
+          <h4>Software Testing: Manual & Automation Testing</h4>
+          <h6 class="text-light"></h6>
         </div>
       </div>
     </div>
@@ -658,7 +705,7 @@
             <h6 class="text-light mb-4">She went to the Diplomatic Academy of Vietnam</h6>
           </div>
           <!-- slider-item-2-->
-          <div class="text-center testimonial-content">
+          <!--<div class="text-center testimonial-content">
             <i class="ti-quote-right text-white icon mb-4 d-inline-block"></i>
             <p class="text-white mb-4">
               Roy Wang, also known as Wang Yuan (Chinese: 王源) is a Chinese singer-songwriter, television host and actor.
@@ -671,7 +718,7 @@
             <img class="img-fluid rounded-circle mb-4 d-inline-block" src="images/inspirational/inspirational-2.png" alt="client-image">
             <h4 class="text-white">Roy Wang</h4>
             <h6 class="text-light mb-4">He works for TF Entertainment <br>and studies in the Berklee College of Music</h6>
-          </div>
+          </div>-->
           <!-- slider-item-3-->
           <div class="text-center testimonial-content">
             <i class="ti-quote-right text-white icon mb-4 d-inline-block"></i>
