@@ -313,12 +313,10 @@
                 December - 2021
               </p>
               <h4>
-                QC Engineer (Manual & Automation Tester)
+                QA Engineer 
               </h4>
               <p class="mb-0 text-light">
-                PetroVietnam Gas Joint Stock Corporation
-                <br>
-                Product: Nail Salons & Spa 
+                Automation & Automation Testing
               </p>
             </div>
           </div>
