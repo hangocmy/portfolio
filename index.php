@@ -316,7 +316,7 @@
                 QA Engineer 
               </h4>
               <p class="mb-0 text-light">
-                Automation & Automation Testing
+                Automation & Manual Testing
               </p>
             </div>
           </div>
