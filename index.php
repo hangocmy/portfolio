@@ -5,7 +5,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Ha Ngoc My | ABOUT ME</title>
+  <title>h a n g o c m y</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -38,17 +38,17 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 mx-auto">
-        <h2 class="text-white font-tertiary"> Hi! I’m<br>Ha Ngoc My<br>Bachelor Of <br>Software Engineering</h2>
+        <h2 class="text-body font-tertiary"> Hi! I’m<br>Ha Ngoc My<br>Bachelor Of <br>Software Engineering</h2>
       </div>
     </div>
   </div>
   <!-- background shapes -->
   <img src="images/illustrations/leaf-bg-top.png" alt="illustrations" class="bg-shape-1 w-100">
   <img src="images/illustrations/dots-group-sm.png" alt="illustrations" class="bg-shape-2">
-  <img src="images/illustrations/leaf-yellow.png" alt="illustrations" class="bg-shape-3">
+  <!--<img src="images/illustrations/leaf-yellow.png" alt="illustrations" class="bg-shape-3">-->
   <img src="images/illustrations/leaf-orange.png" alt="illustrations" class="bg-shape-4">
   <img src="images/illustrations/dots-group-cyan.png" alt="illustrations" class="bg-shape-5">
-  <img src="images/illustrations/leaf-cyan-lg.png" alt="illustrations" class="bg-shape-6">
+  <!--<img src="images/illustrations/leaf-cyan-lg.png" alt="illustrations" class="bg-shape-6">-->
   
 </section>
 <!-- /page title -->
@@ -63,12 +63,18 @@
           line-height: 0.7rem;
           font-weight: 500;
           color: white;
-          background-color: rgba(65, 34, 142, 0.5)">
+          background-color: #5f9d51">
           - Never stop creating new ideas -
         </blockquote>
         <p>I'm a Bachelor of Software Engineering.
-          I’m currently learning everything about Web Design, Web Frontend, Software Testing: Manual Testing, Automation Testing, etc.
-          As a result of my love towards web application, I began setting up this website.
+          I’m currently learning everything about:
+          <br>📑 Web design, Web front-end.
+          <br>📑 Software Testing: manual & automation testing:
+          <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🔖 Test automation framework: Cypress, Selenium (IDE, WebDriver).
+          <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🔖 API testing tool: Postman.
+          <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🔖 Performance Testing: JMeter, etc...
+          <br>
+          <br>As a result of my love towards web application, I began setting up this website.
           In the future, I will learn more technologies.
         </p>
         <p>
@@ -99,7 +105,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        <h2 class="section-title">H O B B Y</h2>
+        <h2 class="section-title text-dark">H O B B Y</h2>
       </div>
       <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
         <div class="card text-center">
@@ -137,7 +143,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h2 class="section-title">Skills</h2>
+          <h2 class="section-title text-dark">Skills</h2>
         </div>
         <div class="col-lg-2 col-sm-6 mb-4 mb-lg-0">
           <div class="card shadow text-center">
@@ -211,7 +217,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h2 class="section-title">Education Achievement</h2>
+          <h2 class="section-title text-dark">Education Achievement</h2>
         </div>
         <!--<div class="col-lg-6 col-md-6 mb-80">
           <div class="d-flex">
@@ -369,7 +375,7 @@
     <div class="container">
       <div class="row justify-content-around">
         <div class="col-lg-12 text-center">
-          <h2 class="section-title">Learning Process</h2>
+          <h2 class="section-title text-dark">Learning Process</h2>
         </div>
         <div class="col-lg-3 col-md-4 text-center">
           <img src="images/experience/icon-1.png" alt="icon">
@@ -468,7 +474,7 @@
     <div class="container">
       <div class="row">
         <div class="col-12 text-center">
-          <h2 class="section-title"><a class="text-dark" href="portfolio.php" title="Read More">Portfolio</a></h2>
+          <h2 class="section-title text-dark"><a class="text-dark" href="portfolio.php" title="Read More">Portfolio</a></h2>
         </div>
       </div>
       <div class="row shuffle-wrapper">
@@ -552,7 +558,7 @@
     <div class="container">
       <div class="row">
         <div class="col-12 text-center">
-            <h2 class="section-title"><a href="blog.php" class="text-dark" title="Read More">Blogs</a></h2>
+            <h2 class="section-title text-dark"><a href="blog.php" class="text-dark" title="Read More">Blogs</a></h2>
         </div>
         <!--Blog-1-->
         <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
@@ -685,24 +691,40 @@
     <div class="container">
       <div class="row">
         <div class="col-12 text-center">
-          <h2 class="section-title text-white mb-5">Inspirational Person</h2>
+          <h2 class="section-title mb-5" style="color:#282828">Inspirational Person</h2>
         </div>
         <div class="col-lg-10 mx-auto testimonial-slider">
           <!-- slider-item-1-->
           <div class="text-center testimonial-content">
             <i class="ti-quote-right text-white icon mb-4 d-inline-block"></i>
-            <p class="text-white mb-4">
+            <p class="mb-4" style="color: black; font-size:16px">
+              She brought you into this world, she took many roles to fit your needs,
+              and once you have grown up, she let you fly away to explore the world.
+              <strong>A mother’s love is eternal, pure and unconditional.</strong>
+              No matter how busy you get in life, make time for your mother
+              <br>
+              <strong style="font-style: italic; color: white ;background-color:#4a7d40; border-radius: 3px;">because you can have another job, earn more money,
+                but you cannot replace a mother’s love with anything else.</strong>
+            </p>
+            <img class="img-fluid rounded-circle mb-4 d-inline-block" style="max-width:200px" src="images/inspirational/inspirational-3.png" alt="client-image">
+            <h4 class="text-secondary">My Mom</h4>
+            <h6 class="text-secondary mb-4">The most inspired person in my life</h6>
+          </div>
+          <!-- slider-item-2-->
+          <div class="text-center testimonial-content">
+            <i class="ti-quote-right text-white icon mb-4 d-inline-block"></i>
+            <p class="mb-4" style="color: #000; font-size: 16px">
               While studying at Phan Boi Chau High School for the Gifted (Nghe An), Khanh Vy was dubbed <strong>"Hotgirl in 7 languages"</strong> by the online community.
               So far, the name Khanh Vy is no stranger to the audience when becoming <strong>the MC/Host of a series of big and small programs</strong>.
               At the same time, she is also <strong>a famous YouTuber</strong> in the English learning community with a series of videos with the label VyVocab, VyTalk, VyLog.
               After 4 years, she recently graduated from university, receiving <strong>a Diploma in International Relations from the Diplomatic Academy</strong>.
 
             </p>
-            <img class="img-fluid rounded-circle mb-4 d-inline-block" src="images/inspirational/inspirational-1.png" alt="client-image">
-            <h4 class="text-white">Tran Khanh Vy</h4>
-            <h6 class="text-light mb-4">She went to the Diplomatic Academy of Vietnam</h6>
+            <img class="img-fluid rounded-circle mb-4 d-inline-block" style="max-width:200px" src="images/inspirational/inspirational-1.png" alt="client-image">
+            <h4 class="text-dark">Tran Khanh Vy</h4>
+            <h6 class="text-dark mb-4">She went to the Diplomatic Academy of Vietnam</h6>
           </div>
-          <!-- slider-item-2-->
+          <!-- slider-item-3-->
           <!--<div class="text-center testimonial-content">
             <i class="ti-quote-right text-white icon mb-4 d-inline-block"></i>
             <p class="text-white mb-4">
@@ -717,22 +739,6 @@
             <h4 class="text-white">Roy Wang</h4>
             <h6 class="text-light mb-4">He works for TF Entertainment <br>and studies in the Berklee College of Music</h6>
           </div>-->
-          <!-- slider-item-3-->
-          <div class="text-center testimonial-content">
-            <i class="ti-quote-right text-white icon mb-4 d-inline-block"></i>
-            <p class="text-white mb-4">
-              She brought you into this world, she took many roles to fit your needs,
-              and once you have grown up, she let you fly away to explore the world.
-              <strong>A mother’s love is eternal, pure and unconditional.</strong>
-              No matter how busy you get in life, make time for your mother
-              <br>
-              <strong style="font-style: italic; color: white ;background-color:rgba(35, 12, 92, 0.5); border-radius: 3px;">because you can have another job, earn more money,
-                but you cannot replace a mother’s love with anything else.</strong>
-            </p>
-            <img class="img-fluid rounded-circle mb-4 d-inline-block" src="images/inspirational/inspirational-3.png" alt="client-image">
-            <h4 class="text-white">My Mom</h4>
-            <h6 class="text-light mb-4">The most inspired person in my life</h6>
-          </div>
         </div>
       </div>
     </div>

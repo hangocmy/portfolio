@@ -5,7 +5,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Ha Ngoc My | BLOG SINGLE</title>
+  <title>hangocmy | reading</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -38,7 +38,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        <h1 class="text-white font-tertiary">Blogs</h1>
+        <h1 class="text-body font-tertiary">Blogs</h1>
       </div>
     </div>
   </div>
@@ -47,9 +47,9 @@
   <img src="images/illustrations/leaf-pink-round.png" alt="illustrations" class="bg-shape-2">
   <img src="images/illustrations/dots-cyan.png" alt="illustrations" class="bg-shape-3">
   <img src="images/illustrations/leaf-orange.png" alt="illustrations" class="bg-shape-4">
-  <img src="images/illustrations/leaf-yellow.png" alt="illustrations" class="bg-shape-5">
+  <!--<img src="images/illustrations/leaf-yellow.png" alt="illustrations" class="bg-shape-5">-->
   <img src="images/illustrations/dots-group-cyan.png" alt="illustrations" class="bg-shape-6">
-  <img src="images/illustrations/leaf-cyan-lg.png" alt="illustrations" class="bg-shape-7">
+  <!--<img src="images/illustrations/leaf-cyan-lg.png" alt="illustrations" class="bg-shape-7">-->
 </section>
 <!-- /page title -->
 
@@ -76,7 +76,7 @@
             No matter where you are in your career as a developer, there is always room for improvement.
             Beginners need to improve their skills to become better at their craft, and experienced developers should always strive for optimizing their code for readability, performance, and maintainability.
           </p>
-          <blockquote>Keep up your development in your role with these tips for improving your web development skills.</blockquote>
+          <blockquote style="font-size:14px">Keep up your development in your role with these tips for improving your web development skills.</blockquote>
           
           <p><strong>1. Write Code Every Day</strong></p>
           <p>
@@ -135,7 +135,7 @@
           <p>
             Before you rush off to implement the tips above, bear in mind that programming languages and technologies come and go.
             While this is a good reason to get familiar with as many languages as possible,
-            <blockquote>
+            <blockquote style="font-size:14px">
               you’ll become a much better developer if you spend your time studying and mastering the programming fundamentals
             </blockquote>
             The simple truth is that the basics never change and therefore it’s better to pay more attention to the underlying architecture rather than focus on mastering the latest new feature to come out in a particular language.
@@ -149,7 +149,7 @@
   </div>
 </section>
 
-<section>
+<!--<section>
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
@@ -201,7 +201,7 @@
       </div>
     </div>
   </div>
-</section>
+</section>-->
 
 <!-- BLOG -->
 <section class="section">

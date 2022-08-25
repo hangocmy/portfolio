@@ -1,6 +1,6 @@
 <header class="navigation fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark">
-        <a class="navbar-brand font-tertiary h3" href="index.php" style="font-style: italic; text-shadow: 5px 7px #280f66; font-size: 1.4rem; font-weight: lighter;">
+        <a class="navbar-brand font-tertiary h3" href="index.php" style="font-style: italic; text-shadow: 2px 2px #4a7d40; font-size: 1.3rem; font-weight: lighter;">
             hangocmy
             <!-- <img src="images/logo.png" alt="Myself"> -->
         </a>

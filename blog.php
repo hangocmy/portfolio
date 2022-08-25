@@ -5,7 +5,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Ha Ngoc My | BLOG</title>
+  <title>hangocmy | blog</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -39,7 +39,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        <h1 class="text-white font-tertiary">Blogs</h1>
+        <h1 class="text-body font-tertiary">Blogs</h1>
       </div>
     </div>
   </div>
@@ -48,9 +48,9 @@
   <img src="images/illustrations/leaf-pink-round.png" alt="illustrations" class="bg-shape-2">
   <img src="images/illustrations/dots-cyan.png" alt="illustrations" class="bg-shape-3">
   <img src="images/illustrations/leaf-orange.png" alt="illustrations" class="bg-shape-4">
-  <img src="images/illustrations/leaf-yellow.png" alt="illustrations" class="bg-shape-5">
+  <!--<img src="images/illustrations/leaf-yellow.png" alt="illustrations" class="bg-shape-5">-->
   <img src="images/illustrations/dots-group-cyan.png" alt="illustrations" class="bg-shape-6">
-  <img src="images/illustrations/leaf-cyan-lg.png" alt="illustrations" class="bg-shape-7">
+  <!--<img src="images/illustrations/leaf-cyan-lg.png" alt="illustrations" class="bg-shape-7">-->
 </section>
 <!-- /page title -->
 
