@@ -19,6 +19,7 @@ jobs:
         with:
           envkey_URL: ${{ secrets.URL }}
           envkey_PROJECT_ID: ${{ secrets.CYPRESS_PROJECT_ID }}
+          envkey_CYPRESS_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
 
       - name: Set up Node.js version
         uses: actions/setup-node@v1
@@ -37,8 +38,6 @@ jobs:
           wait-on: ${{ secrets.URL }}
           wait-on-timeout: 120
           record: true
-        env:
-          CYPRESS_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
 
   deploy:
     runs-on: ubuntu-latest
