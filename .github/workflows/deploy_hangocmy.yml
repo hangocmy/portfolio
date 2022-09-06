@@ -29,7 +29,6 @@ jobs:
     needs: cypress
     environment:
       name: "Production"
-      url: ${{ secrets.HEROKU_PRODUCTION_URL }}
 
     steps:
       - name: Development Code
