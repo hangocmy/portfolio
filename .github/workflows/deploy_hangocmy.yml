@@ -23,7 +23,7 @@ jobs:
       - name: Cypress run
         uses: cypress-io/github-action@v4
         with:
-          start: npm start
+          start: npm run cy:run
           browser: chrome
           headed: true
           wait-on: ${{ secrets.URL }}

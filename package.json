@@ -4,7 +4,8 @@
   "description": "Automation testing with Cypress framework",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cy:run": "cypress run",
+    "test": "mocha --timeout 150000"
   },
   "author": "",
   "license": "ISC",
