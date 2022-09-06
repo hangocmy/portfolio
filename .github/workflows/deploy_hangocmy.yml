@@ -14,28 +14,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Create .env file
-        uses: SpicyPizza/create-envfile@v1
-        with:
-          envkey_URL: ${{ secrets.URL }}
-          envkey_PROJECT_ID: ${{ secrets.CYPRESS_PROJECT_ID }}
-          envkey_CYPRESS_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
-
-      - name: Set up Node.js version
-        uses: actions/setup-node@v1
-        with:
-          node-version: "14.x"
-
-      - name: Install dependencies
-        run: |
-          npm install
-
       - name: Cypress run
         uses: cypress-io/github-action@v4
         with:
-          cy:run: npm run cy:run 
           browser: chrome
-          wait-on: ${{ secrets.URL }}
           wait-on-timeout: 120
           record: true
 
