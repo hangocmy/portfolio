@@ -3,7 +3,7 @@ name: Deploy PHP app to Heroku - hangocmy portfolio
 on:
   push:
     branches:
-      - "**"
+      - deploy
 
   workflow_dispatch:
 
