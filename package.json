@@ -4,7 +4,6 @@
   "description": "Automation testing with Cypress framework",
   "main": "index.js",
   "scripts": {
-    "cy:run": "cypress run",
     "test": "mocha --timeout 150000"
   },
   "author": "",
