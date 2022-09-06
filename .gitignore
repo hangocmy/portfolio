@@ -1,10 +1,10 @@
 #dependencies
-/test/node_modules/
+/node_modules/
 
 
 #cypress record & download
-/test/cypress/videos/
+/cypress/videos/
 
-/test/cypress/screenshots/
+/cypress/screenshots/
 
-/test/cypress/downloads/
+/cypress/downloads/
