@@ -3,6 +3,7 @@
   $username = 'root';
   $password = '';
 
-  
-  $db = new PDO($host, $username, $password);
+  $db = new MongoDB\Client('mongodb+srv://hangocmy:bemi@1909@cluster0.vzqufnc.mongodb.net/?retryWrites=true&w=majority');
+
+  //$db = new MongoClient($host, $username, $password);
 ?>
