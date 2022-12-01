@@ -3,5 +3,6 @@
   $username = 'root';
   $password = '';
 
+  
   $db = new PDO($host, $username, $password);
 ?>
