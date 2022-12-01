@@ -55,7 +55,7 @@
               I’m currently learning everything about:
               <br>📑 Web design, Web front-end.
               <br>📑 Software Testing: manual & automation testing:
-              <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🔖 Test automation framework: Cypress, Selenium (IDE, WebDriver).
+              <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🔖 Test automation framework: Cypress, Playwright, Selenium.
               <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🔖 API testing tool: Postman.
               <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🔖 Performance Testing: JMeter, etc...
               <br>
