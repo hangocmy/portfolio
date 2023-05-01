@@ -5,11 +5,9 @@
     <meta charset="utf-8">
     <title>hangocmy | reading</title>
 
-    <?php //mobile responsive meta ?>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     
-    <?php //Plugins Needed for the Project ?>
     <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
     <link rel="stylesheet" href="plugins/slick/slick.css">
     <link rel="stylesheet" href="plugins/themify-icons/themify-icons.css">
@@ -20,7 +18,34 @@
   </head>
 
   <body>
-    <?php include "frame/header.php"?>
+    <header class="navigation fixed-top">
+        <nav class="navbar navbar-expand-lg navbar-dark">
+            <a class="navbar-brand font-tertiary h3" href="index.html" style="font-style: italic; text-shadow: 2px 2px #4a7d40; font-size: 1.3rem; font-weight: lighter;">
+                hangocmy
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+                    aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+    
+            <div class="collapse navbar-collapse text-center" id="navigation">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="portfolio.html">Portfolio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="blog.html">Blog</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white" href="https://www.github.com/hangocmy" target="_blank" ><i class="ti-github"></i></a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
 
     <section class="page-title bg-primary position-relative">
       <div class="container">
@@ -109,9 +134,100 @@
       </div>
     </section>
 
-    <?php include "frame/blog-section.php"; ?>
+    <section class="section">
+        <div class="container">
+            <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="section-title">Blogs</h2>
+            </div>
 
-    <?php include "frame/footer.php"?>
+            <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
+                <article class="card shadow">
+                <img class="rounded card-img-top" src="images/blog/post-1.gif" alt="post-thumb">
+                <div class="card-body">
+                    <h4 class="card-title"><a class="text-dark" href="blog-single.php">5 Tips for Improving Your Web Development Skills</a>
+                    </h4>
+                    <p class="cars-text">
+                    Web development is a fast-changing industry.
+                    As a developer, there is no excuse for slacking off.
+                    You have to constantly learn and improve your skills if you want to stay on top of the industry trends and ahead of the game.
+                    </p>
+                    <a href="blog-single.html" class="btn btn-xs btn-primary">Read More</a>
+                </div>
+                </article>
+            </div>
+
+            <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
+                <article class="card shadow">
+                <img class="rounded card-img-top" src="images/blog/post-2.gif" alt="post-thumb">
+                <div class="card-body">
+                    <h4 class="card-title"><a class="text-dark" href="blog-single-2.php">Why can you do right now to save the earth?</a>
+                    </h4>
+                    <p class="cars-text">
+                    Can the Earth Be Saved?
+                    The answer is 'yes,' with some big 'if's. Here are 3 things we must do.
+                    We don’t have to accept a fate of gloom and doom.
+                    This is a hopeful wake-up call, but only if we act with great urgency.
+                    </p>
+                    <a href="blog-single-2.php" class="btn btn-xs btn-primary">Read More</a>
+                </div>
+                </article>
+            </div>
+
+            <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
+                <article class="card shadow">
+                <img class="rounded card-img-top" src="images/blog/post-3.gif" alt="post-thumb">
+                <div class="card-body">
+                    <h4 class="card-title"><a class="text-dark" href="blog-single-3.php">9 Simple Tips for a Smoother Trip</a>
+                    </h4>
+                    <p class="cars-text">
+                    Travel is full of major decisions — like which country to visit, how much to spend and finally make that all-important airfare purchase. But beyond the big picture, it’s the little things that can make a trip easier and less stressful.
+                </p>
+                    <a href="blog-single-3.html" class="btn btn-xs btn-primary">Read More</a>
+                </div>
+                </article>
+            </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="bg-dark footer-section">
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <h5 class="text-white">Socials</h5>
+                        <p class="text-white paragraph-sm font-secondary">
+                            <a class="text-white" target="_blank" href="https://www.facebook.com/ymcognah/"><i class="ti-facebook" style="font-size: 1.2rem; margin-right: 4px; border: 1px solid rgba(233, 232, 232, 0.7);border-radius: 3.8px;"></i></a>
+                            <a class="text-white" target="_blank" href="https://www.linkedin.com/in/hangocmy"><i class="ti-linkedin" style="font-size: 1.2rem; margin-right: 4px; border: 1px solid rgba(233, 232, 232, 0.7); border-radius: 3.8px;"></i></a>
+                            <br>
+                            <a class="text-white" target="_blank" href="https://www.instagram.com/ymcognah"><i class="ti-instagram" style="font-size: 1.2rem; margin-right: 4px;  border: 1px solid rgba(233, 232, 232, 0.7); border-radius: 3.8px;"></i></a>
+                            <a class="text-white" target="_blank" href="https://www.github.com/hangocmy"><i class="ti-github" style="font-size: 1.2rem; margin-right: 4px; border: 1px solid rgba(233, 232, 232, 0.7); border-radius: 3.8px;"></i></a></li>
+                        </p>
+                    </div>
+                    <div class="col-sm-4">
+                        <h5 class="text-white">Email and Phone</h5>
+                        <p class="text-white paragraph-sm font-secondary">
+                            <a class="text-white" target="_blank" href="mailto:hangocmy00@gmail.com">hangocmy00@gmail.com</a>
+                            <br>
+                            <a class="text-white" target="_blank" href="tel:+84888745255">+84 888 745 255</a> 
+                        </p>
+                    </div>
+                    <div class="col-sm-4">
+                        <h5 class="text-white">Address</h5>
+                        <p class="text-white paragraph-sm font-secondary">
+                            <a class="text-white" target="_blank" href="https://www.google.com/maps/place/Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+T%C3%B4n+%C4%90%E1%BB%A9c+Th%E1%BA%AFng/@10.7326029,106.6972803,17z/data=!3m1!4b1!4m5!3m4!1s0x317528b2747a81a3:0x33c1813055acb613!8m2!3d10.7326029!4d106.699469?hl=vi-VN">District 7, Ho Chi Minh City, Vietnam</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="border-top text-center border-dark py-3">
+            <p class="mb-0 text-light" style="font-size:12px">Copyright © 2020 | <a href="https://github.com/hangocmy" target="_blank">hangocmy</a></p>
+        </div>
+    </footer>
+
 
     <script src="plugins/jQuery/jquery.min.js"></script>
     <script src="plugins/bootstrap/bootstrap.min.js"></script>
